@@ -8,5 +8,7 @@ function ex07(){
     let g = ["Céu Azul",3.60];
     let h = ["Brownie",4.00];
     let i = ["Hawaiano",5.00];
-
+    let resposta = "";
+    resposta = prompt("digite o codigo do picolé")
+    
 }
